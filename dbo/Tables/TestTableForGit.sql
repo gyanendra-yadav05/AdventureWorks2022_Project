@@ -1,5 +1,6 @@
 create table TestTableForGit
 ( Id int,
 name varchar(20),
-age number
+age number,
+phone varchar(10)
 );
